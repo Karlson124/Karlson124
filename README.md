@@ -34,6 +34,7 @@ I'm an M.S. Computer Science student at Auburn University at Montgomery with int
 - Prepare for Ph.D. opportunities and cloud/software engineering roles
 
 ## 🔗 Connect
+- **Website:** https://karlson124.github.io/karlson/
 - **LinkedIn:** https://www.linkedin.com/in/goodnews-karlson-22596125a
 - **ORCID:** https://orcid.org/0009-0004-7456-4615
 - **GitHub:** https://github.com/Karlson124
