@@ -1,42 +1,61 @@
 # Hi, I'm Goodnews Karlson 👋
 
-I'm an M.S. Computer Science student at Auburn University at Montgomery with interests in software engineering, smart-home systems, IoT, cloud computing, and machine learning.
+I'm an M.S. Computer Science student at **Auburn University at Montgomery** working at the intersection of **software engineering, smart-home systems, IoT, and cloud computing**.
 
-## 🔬 Research Interests
+My current graduate research focuses on improving the reliability of smart-home automations and building practical software tools for detecting and explaining reliability problems.
+
+## Featured Project
+
+### Lifecycle Guard
+**Python · JavaScript · YAML · Home Assistant**
+
+Lifecycle Guard is my ongoing graduate research prototype for analyzing Home Assistant automation configurations and identifying reliability risks. The project also explores practical explanations and repair guidance for automation problems.
+
+The research repository is currently **private** while the work is in progress.
+
+## Research Interests
+
 - Software Engineering
-- Smart Home Automation
+- Software Reliability and Debugging
+- Smart-Home Automation
 - Internet of Things (IoT)
-- Software Analysis and Debugging
-- Machine Learning
 - Smart Buildings
+- Program Analysis
 - Cloud Computing
+- Machine Learning
 
-## ☁️ Currently Building
-- Graduate research in smart-home reliability and software analysis
-- Hands-on cloud engineering skills with AWS, Linux, and DevOps tools
-- A stronger portfolio of research and software projects
+## Technical Skills
 
-## 🛠️ Technical Skills
-- **Languages:** Python, C++, C, PHP, JavaScript
-- **Web:** HTML, CSS
-- **Data & Databases:** MySQL
-- **Tools & Platforms:** Git, GitHub, Linux, Home Assistant, YAML
-- **Learning:** AWS, Cloud Infrastructure, DevOps, Docker, Terraform
+**Languages:** Python, C, C++, JavaScript, PHP, SQL  
+**Web:** HTML, CSS  
+**Tools & Platforms:** Git, GitHub, Linux, Home Assistant, YAML, VS Code, PyCharm  
+**Developing:** AWS, Docker, Terraform, DevOps and cloud infrastructure
 
-## 🎓 Education
-- **M.S. Computer Science** — Auburn University at Montgomery
-- **B.Sc. Computer Science** — Rivers State University
+## Experience
 
-## 🎯 Current Goals
-- Develop and complete my master's research
-- Build practical cloud engineering experience
-- Contribute to strong research and software projects
-- Prepare for Ph.D. opportunities and cloud/software engineering roles
+- **Graduate Assistant** — Auburn University at Montgomery Library
+- **Teaching Assistant** — Rivers State University
+  - Supported introductory problem solving and Python programming
+- **Web Development Intern** — White Creativity Softwares
 
-## 🔗 Connect
-- **Website:** https://karlson124.github.io/karlson/
-- **LinkedIn:** https://www.linkedin.com/in/goodnews-karlson-22596125a
-- **ORCID:** https://orcid.org/0009-0004-7456-4615
-- **GitHub:** https://github.com/Karlson124
+## Education
 
-Thanks for visiting my profile.
+- **M.S. Computer Science** — Auburn University at Montgomery, expected 2027
+- **B.Sc. Computer Science** — Rivers State University, 2024
+  - GPA: **4.02/5.00**
+
+## Recognition
+
+- **Award of Excellence**, Department of Computer Science, Rivers State University — 4th of 186 graduates
+- **Alex Otti Foundation Scholarship**, 2020–2023
+
+## Current Goals
+
+I am building toward **Ph.D. research opportunities** and **software/cloud engineering roles**, while continuing to develop research and practical systems around reliable intelligent environments.
+
+## Connect
+
+- 🌐 [Academic Website](https://karlson124.github.io/karlson/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/goodnews-karlson-22596125a)
+- 🔬 [ORCID](https://orcid.org/0009-0004-7456-4615)
+
